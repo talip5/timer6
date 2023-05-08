@@ -1,0 +1,9 @@
+core_cm0.h:623:22:__NVIC_EnableIRQ	2
+core_cm0.h:730:22:__NVIC_SetPriority	2
+timer6.c:11:6:timer6_init	1
+timer6.c:28:6:led_init	1
+timer6.c:41:6:ledB5_init	1
+timer6.c:54:6:led_ON	1
+timer6.c:58:6:led_OFF	1
+timer6.c:62:6:ledB5_ON	1
+timer6.c:66:6:ledB5_OFF	1
